@@ -321,7 +321,7 @@ public class MainFrame implements ActionListener {
 			finally{reset();}
 		}
 	}
-
+//test git
 	/**
 	 * Initialisation de la connection à la base de données
 	 */
